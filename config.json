@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersrocess",
+        "uuid": 40102636,
+        "checksum": "jmttpb"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
